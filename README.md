@@ -1,4 +1,4 @@
-#Scuola aperta 
+# Scuola aperta 
 =====
 
 Página web de la Scuola aperta del Liceo del Gimnasio Alessandro Volta 2019-20. Todos los estudiantes y profesores del liceo están invitados a contribuir.
