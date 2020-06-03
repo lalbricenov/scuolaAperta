@@ -16,4 +16,4 @@ Revisaré periodicamente las pull requests hechas y las incluiré si las conside
 ## Plantilla
 
 En la carpeta base del proyecto se encuentra el archivo plantilla.html, usar ese archivo como base para todas sus contribuciones, escribir el contenido únicamente dentro de
-los tag <main>
+los tag `<main>` y `</main>`.
