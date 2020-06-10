@@ -16,3 +16,7 @@ Revisaré periodicamente las pull requests hechas y las incluiré si las conside
 
 En la carpeta base del proyecto se encuentra el archivo plantilla.html, usar ese archivo como base para todas sus contribuciones, escribir el contenido únicamente dentro de
 los tag `<main>` y `</main>`.
+
+## Resultado
+
+La página que incluye todo el trabajo de todos se encuentra en [Scuola Aperta](https://lalbricenov.github.io/scuolaAperta/)
