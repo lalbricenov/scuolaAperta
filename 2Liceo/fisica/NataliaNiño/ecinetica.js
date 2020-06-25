@@ -1,7 +1,6 @@
 let pantallas =["energia", "ecinética", "epotencial", "consere"]
 
 let mostrar = function (id) {
-    if(id == "consere")document.getElementById("tablaTareas").innerHTML = creartabla(tareas);
     let aMostrar = document.querySelector("#" + id);
     aMostrar.style.display = "block";
     for (pantalla of pantallas) {
